@@ -1,0 +1,32 @@
+header{
+    color:white;
+    font-family:Verdana;
+    text-align:center;
+    padding:0px;
+}
+body{ 
+display: block;
+color:white;
+font-size:40px;
+font-family:Verdana;
+background-size: 120%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-image: url("http://em2d.com/wp-content/uploads/2014/05/xbg-red-4.jpg.pagespeed.ic.4W-61C7NV0.jpg"); 
+height: 200px; 
+}
+h1{
+	font-family: dense;
+	color: white;
+	font-size: 70px;
+	/*font-weight: bold;*/
+	
+}
+.description{
+	width: 48%;
+	height: 100%;
+	display: inline-block;
+	margin: 10px 10px 10px 10px;
+	background-color: rgba(192, 192, 192, 0.55);
+	border-radius: 10px;
+}
